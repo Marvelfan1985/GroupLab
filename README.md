@@ -7,7 +7,7 @@
 
 #### Creating the Script: Deepak Kumar
 
-## Instructions:
+## Instructions to our game:
 
 
 
