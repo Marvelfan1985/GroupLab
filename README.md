@@ -7,6 +7,11 @@
 
 #### Creating the Script for the Game: Deepak Kumar
 #
+
+## Design:
+
+[Design.pdf](https://github.com/Marvelfan1985/GroupLab/files/11073166/Design.pdf)
+
 ## How to Play:
 
 ### 1. When our game starts it will ask the user for their name
