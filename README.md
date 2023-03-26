@@ -1,8 +1,8 @@
 # GroubLab
 
 ## Roles:
-### Designing the Chart: Shahryar Danish
+### Designing the Chart: Shahriyar Danish
 
-### Creating the Script: Saini
+### Creating the Script: Deepak Kumar
 
-Working on the GitHub: Sean Wilkinson and Puna
+Working on the GitHub: Sean Wilkinson and Prabhjot Kaur
