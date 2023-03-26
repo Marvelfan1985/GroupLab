@@ -1,4 +1,4 @@
-# GroubLab
+# GroupLab
 
 ## Roles:
 #### Designing the Chart: Shahriyar Danish
