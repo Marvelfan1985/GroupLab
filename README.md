@@ -10,7 +10,7 @@
 
 ## Design:
 
-[Design.pdf](https://github.com/Marvelfan1985/GroupLab/files/11073166/Design.pdf)
+![Design](https://user-images.githubusercontent.com/125521961/227807040-361885f7-bea3-4d58-97af-ebaa8dbb3d99.png)
 
 ## How to Play:
 
