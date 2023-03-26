@@ -5,6 +5,6 @@
 
 #### Working on the GitHub: Sean Wilkinson and Prabhjot Kaur
 
-### Creating the Script: Deepak Kumar
+##### Creating the Script: Deepak Kumar
 
 
