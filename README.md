@@ -18,7 +18,7 @@
 
 
 
-#### Goal:
+### Goal:
 
 ###### This is what is written in the GroupLab's instructions
 
