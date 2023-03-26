@@ -1,16 +1,36 @@
 # GroupLab
 
 ## Roles:
-#### Designing the Chart: Shahriyar Danish
+#### Designing the Chart for our GroupLab: Shahriyar Danish
 
 #### Working on Creating GitHub: Sean Wilkinson and Prabhjot Kaur
 
-#### Creating the Script: Deepak Kumar
+#### Creating the Script for the Game: Deepak Kumar
+#
+## How to Play:
 
-## Instructions to our game:
+### 1. When our game starts it will ask the user for their name
 
-##### 1. When you're here 
+```
+Please enter your name to start: Phil
+```
+### 2. It will then show the games menu and you can choose either if you want to see the instructions, play Rock-Paper-Scissors or quit the game.
 
+```
+Enter A to Play Rock-Paper-Scissors
+Enter B to quit
+Enter C to read instructions
+Enter your choice: a
+```
+
+### 3. If the user enters A our game will start and ask the user to enter rock, paper, scissors.
+
+```
+Let's play the game  Rock-Paper-Scissors, Phil!
+Enter your move: scissors
+```
+
+#
 
 ## Code for our game
 
