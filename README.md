@@ -28,12 +28,27 @@ Enter C to read instructions
 Enter your choice: a
 ```
 
-### 3. If the user enters A our game will start and ask the user to enter rock, paper, scissors.
+### 3. If the user enters A our game will start and ask the user to enter Rock-Paper-Scissors.
 
 ```
 Let's play the game  Rock-Paper-Scissors, Phil!
 Enter your move: scissors
 ```
+
+### 4. When the user enters their move the computer makes its move and it will display if it lost, won, or a tie.
+
+```
+Enter your move: scissors
+Computer is  making its move...
+Computer chooses: paper
+You win
+Play again? (y/n):
+```
+### Hey! Phil the user won this round, congratulations! It will ask the user if they want to go for another round and the user can 
+
+### 5. If you select 'y' it will repeat the menu in step 3 asking if if its Rock-Paper-Scissors.
+
+### 6. If you select 'n' the user will go to the menu in step 2 asking if you want to play the game look at the instructions or quit our game.
 
 #
 
