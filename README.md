@@ -1,11 +1,11 @@
 # GroupLab
 
 ## Roles:
-#### Designing the Chart for our GroupLab: Shahriyar Danish
+#### Designing the Chart for our GroupLab: Shahriyar Danish - 111548202
 
-#### Working on Creating GitHub: Sean Wilkinson and Prabhjot Kaur
+#### Working on Creating GitHub: Sean Wilkinson - 111403218 and Prabhjot Kaur - 139464218
 
-#### Creating the Script for the Game: Deepak Kumar
+#### Creating the Script for the Game: Deepak Kumar - 119617215
 #
 
 ## Design:
